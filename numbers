@@ -1,0 +1,6 @@
+ilhanYas= 17.5
+dogaYas = 18
+
+print(type(ilhanYas))
+print(type(dogaYas))
+print((dogaYas+ilhanYas)/2)
